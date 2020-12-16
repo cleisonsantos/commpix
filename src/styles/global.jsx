@@ -1,7 +1,7 @@
 import { createGlobalStyle } from 'styled-components'
 const GlobalStyle = createGlobalStyle`
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -14,7 +14,8 @@ body,html {
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Antic Slab', serif;
+
 }
 
 button {
