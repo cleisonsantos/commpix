@@ -31,7 +31,7 @@ img {
 const Menu = styled.menu`
     width: 100%;
     background-color: #006b86;
-    height: ${props => props.toggle ? "183px": 0};
+    height: ${props => props.toggle ? "248px": 0};
     margin-top: 80px;
     transition: all .3s ease;
     display: block;
