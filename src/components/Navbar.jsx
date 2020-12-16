@@ -76,8 +76,9 @@ function Navbar(props) {
             </Nav>
             <Menu toggle={toggle}>
                 <ul>
-                    <li><a href="/servicos">Cadastrar serviço</a></li>
-                    <li><a href="/colaboradores">Cadastrar colaborador</a></li>
+                    <li><a href="/chaves">Minhas chaves pix</a></li>
+                    <li><a href="/servicos">Serviços</a></li>
+                    <li><a href="/colaboradores">Colaboradores</a></li>
                     <li><a href="/sair">sair</a></li>
                 </ul>
             </Menu>
