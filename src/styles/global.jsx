@@ -18,12 +18,31 @@ body,html {
 
 }
 
+input {
+        font-size: 18px;
+        padding: .5rem;
+        color: #444;
+        border-radius: .25rem;
+        border: 1px solid #ccc;
+        margin: .25rem 0;
+        width: 100%;
+        margin: .25rem;
+    }
+    input:focus{
+        border-color: #006c86;
+        box-shadow: 0 0 0 0.2rem  #006b8660
+    }
+
 button {
-    height: 2.75rem;
-    width: 3rem;
+    height: fit-content;
+    width: fit-content;
+    padding: .5rem .75rem;
+    margin: 0rem .25rem;
     border-radius: 4px;
     border: 1px solid #006c86;
     cursor: pointer;
+    white-space: nowrap;
+    font-size: 16px;
 }
 button:hover {
         border-color: #006c86;
