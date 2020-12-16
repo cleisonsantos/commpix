@@ -25,6 +25,9 @@ button {
     border: 1px solid #006c86;
     cursor: pointer;
 }
+button:hover {
+        border-color: #006c86;
+    }
 
 `
 export default GlobalStyle
