@@ -9,6 +9,10 @@ export const Main = styled.main`
   display: block;
   padding: 1rem;
   color: #444;
+
+  @media(min-width: 1600px) {
+        padding: 2rem 20%;
+    }
 `;
 
 
