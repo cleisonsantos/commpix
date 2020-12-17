@@ -23,9 +23,11 @@ height:80px;
 background-color: #eee;
 
 img {
-    height: 3rem;
+    height: 3.25rem;
 }
-
+button{
+    width: 54px;
+}
 
 `
 const Menu = styled.menu`
@@ -52,6 +54,7 @@ li a{
 li a:hover {
     background-color: #009486;
 }
+
 `
 
 function Navbar(props) {
