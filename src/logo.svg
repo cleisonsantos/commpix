@@ -10,8 +10,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg866"
-   width="282.81525"
-   height="84.608337"
+   width="262.40701"
+   height="74.608337"
    sodipodi:docname="logo.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
@@ -64,7 +64,7 @@
        xlink:href="#linearGradient1007"
        id="linearGradient865"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.79641731,0,0,0.79641731,-53.098001,15.069417)"
+       gradientTransform="matrix(0.7167745,0,0,0.7167745,-72.905445,21.395561)"
        x1="-215.2383"
        y1="79.638992"
        x2="-215.27832"
@@ -84,13 +84,13 @@
      id="namedview868"
      inkscape:document-rotation="0"
      showgrid="false"
-     fit-margin-top="5"
+     fit-margin-top="0"
      fit-margin-left="5"
      fit-margin-right="5"
-     fit-margin-bottom="5"
+     fit-margin-bottom="0"
      inkscape:zoom="1.9221827"
-     inkscape:cx="144.64605"
-     inkscape:cy="16.262299"
+     inkscape:cx="144.64607"
+     inkscape:cy="11.262301"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -101,21 +101,21 @@
      max="342.48379,98.207726" />
   <g
      id="g850"
-     transform="matrix(3.7795276,0,0,3.7795276,1023.0362,-253.746)">
+     transform="matrix(3.7795276,0,0,3.7795276,1023.0362,-258.746)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.486px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient865);fill-opacity:1;stroke:none;stroke-width:0.264582"
-       x="-251.95334"
-       y="81.915451"
+       style="font-style:normal;font-weight:normal;font-size:12.1374px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient865);fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="-251.87498"
+       y="81.5569"
        id="text835"><tspan
          sodipodi:role="line"
          id="tspan833"
-         x="-251.95334"
-         y="81.915451"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.486px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono Bold';fill:url(#linearGradient865);fill-opacity:1;stroke-width:0.264582">commpix</tspan></text>
+         x="-251.87498"
+         y="81.5569"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1374px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono Bold';fill:url(#linearGradient865);fill-opacity:1;stroke-width:0.264582">commpix</tspan></text>
     <g
        id="g1015"
-       transform="matrix(0.69042497,0,0,0.69042497,-81.062335,23.006813)"
+       transform="matrix(0.69042497,0,0,0.69042497,-81.062335,23.006812)"
        style="stroke-width:1.4484">
       <path
          sodipodi:type="star"
