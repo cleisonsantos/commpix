@@ -14,7 +14,7 @@ body,html {
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    font-family: 'Antic Slab', serif;
+    font-family: 'Ubuntu', serif;
 
 }
 
