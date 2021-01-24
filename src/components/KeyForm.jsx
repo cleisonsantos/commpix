@@ -38,13 +38,13 @@ const KeyType = styled.div`
 `
 
 function KeyForm(props) {
-    
-    
+
+    /* function resetClassName() {
+
+    } */
     function handleKeyType(e) {
-        
-        
-        //console.log(document.getElementByName(e.target.name))
-        e.target.nextSibling.classList.add('selectedLabel')
+
+        console.log(e.target)
     }
     return (
         <div>
