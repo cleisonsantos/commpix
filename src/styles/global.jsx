@@ -19,12 +19,11 @@ body,html {
 }
 
 input {
-        font-size: 18px;
+        font-size: 16px;
         padding: .5rem;
         color: #444;
         border-radius: .25rem;
         border: 1px solid #ccc;
-        margin: .25rem 0;
         width: 100%;
         margin: .25rem;
     }
@@ -37,7 +36,7 @@ button {
     height: fit-content;
     width: fit-content;
     padding: .5rem .75rem;
-    margin: 0rem .25rem;
+    margin: .25rem;
     border-radius: 4px;
     border: 1px solid #006c86;
     cursor: pointer;
